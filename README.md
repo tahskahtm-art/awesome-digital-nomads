@@ -219,6 +219,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 ## Travel Visas
 - [Brazil - Itamaraty](http://www.portalconsular.itamaraty.gov.br/tabela-de-vistos-para-cidadaos-brasileiros) - Information about visas for Brazilians.
+- [Digital Nomad Guide](https://dg-nomad.com/) - Information about different visas in popular destinations.
 
 ## License
 
